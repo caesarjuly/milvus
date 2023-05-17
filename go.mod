@@ -18,7 +18,7 @@ require (
 	github.com/gin-gonic/gin v1.9.0
 	github.com/gofrs/flock v0.8.1
 	github.com/golang/protobuf v1.5.3
-	github.com/klauspost/compress v1.14.4
+	github.com/klauspost/compress v1.15.15
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
 	github.com/milvus-io/milvus-proto/go-api v0.0.0-20230421091228-eaa38c831a61
 	github.com/milvus-io/milvus/pkg v0.0.0-00010101000000-000000000000
@@ -56,6 +56,7 @@ require (
 	github.com/benesch/cgosymbolizer v0.0.0-20190515212042-bec6fe6e597b // indirect
 	github.com/bytedance/sonic v1.8.0 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
+	github.com/cockroachdb/pebble v0.0.0-20230516210538-5a6b91b8aab4 // indirect
 	github.com/containerd/cgroups v1.1.0 // indirect
 	github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c // indirect
 	github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 // indirect
